@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "andrea.dondiego@student.csulb.edu" > gisc605
+echo "andrea.dondiego@student.csulb.edu" 
